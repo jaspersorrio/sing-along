@@ -65,6 +65,8 @@ The musician needs to do a live gig and the wifi/3g might not be good to use.
 
 [Guitar Tuner App built by Paul @google ](https://guitar-tuner.appspot.com/)
 
+[Better app that can understand chords!](http://www.proguitartuner.com/guitar-tuner/)
+
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
