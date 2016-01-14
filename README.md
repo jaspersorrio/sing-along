@@ -53,6 +53,18 @@ Use case:
 
 The musician needs to do a live gig and the wifi/3g might not be good to use.
 
+## Resources
+
+[Frequencies of musical notes](http://www.phy.mtu.edu/~suits/notefreqs.html)
+
+[Demo that uses the Web Audio API](https://mdn.github.io/voice-change-o-matic/)
+
+[The Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+
+[Case study by Paul of Guitar Tuner App](https://aerotwist.com/blog/guitar-tuner/)
+
+[Guitar Tuner App built by Paul @google ](https://guitar-tuner.appspot.com/)
+
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
