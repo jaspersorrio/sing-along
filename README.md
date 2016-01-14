@@ -13,9 +13,8 @@ singalong aims to provide instrument players a helper that helps them scroll thr
 
 singalong will help you scroll based on what you have sang or played.
 
-
-#### Foresight
-
+Use case:
+Guitarist, pianist and other instrument players don't have a free hand to flip to the next page while singing.
 The verses should 'fade out' when they are no longer active.
 
 e.g
@@ -43,6 +42,16 @@ e.g
 
 
 ### Screen broadcast
+
+Use case:
+Phone is used as a receiver. But the phone is too small to share with friends.
+Go to a unique url, singalong.com/uniqueUrl to be able to follow what the singer is singing. 
+
+### Offline version
+
+Use case:
+
+The musician needs to do a live gig and the wifi/3g might not be good to use.
 
 ## Build & development
 
