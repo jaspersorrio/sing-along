@@ -71,6 +71,8 @@ The musician needs to do a live gig and the wifi/3g might not be good to use.
 
 [Tutorial for Google Speech Recognition](https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API?hl=en)
 
+[Can we use Speech Recognition?](http://caniuse.com/#feat=speech-recognition)
+
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
