@@ -67,6 +67,10 @@ The musician needs to do a live gig and the wifi/3g might not be good to use.
 
 [Better app that can understand chords!](http://www.proguitartuner.com/guitar-tuner/)
 
+[Google Speech Recognition Spec](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html)
+
+[Tutorial for Google Speech Recognition](https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API?hl=en)
+
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
